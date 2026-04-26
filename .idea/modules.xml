@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java_02_Practice/MiniProjects/BookStore/BookStore.iml" filepath="$PROJECT_DIR$/Java_02_Practice/MiniProjects/BookStore/BookStore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_01_CoreJava/Java_01_CoreJava.iml" filepath="$PROJECT_DIR$/Java_01_CoreJava/Java_01_CoreJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_02_Practice/MiniProjects/TicketReservation/TicketReservation.iml" filepath="$PROJECT_DIR$/Java_02_Practice/MiniProjects/TicketReservation/TicketReservation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_bootcamp.iml" filepath="$PROJECT_DIR$/.idea/java_bootcamp.iml" />
+    </modules>
+  </component>
+</project>
