@@ -35,7 +35,7 @@ public class LinkedList01 {
         ArrayList<String> list1 = new ArrayList<>();
         List<String> list2 = new ArrayList<>();
 
-        //List<String> list3 = new List(); HATA
+        //List<String> list3 = new List(); HATA !!!!
 
         /*LinkedList: Bağlı bir listedir.
 
